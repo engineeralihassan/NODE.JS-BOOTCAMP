@@ -1,7 +1,0 @@
-Text which is entered dynamicall i the ali.txt file
-
-
-https://codepen.io/Mehdi-Javanbakht/pen/XWQdgVG
-ttps://codepen.io/enjamulislam/pen/VwRWPBY
-https://codepen.io/Inerepamo-Zina/pen/ZEPLrjj
-https://codepen.io/replyre/pen/rNRNrwE
