@@ -1,0 +1,17 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "this is the first app whil learning node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Ali Hassan",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
